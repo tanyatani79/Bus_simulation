@@ -1,7 +1,8 @@
 **Bus Simulation(Computer Graphics Project)**
 A 3D animated bus simulation built using OpenGL and GLUT, simulating a smart transportation scene complete with animated buses, passengers, bus stops, roads, and environment elements.
 
-**#Project Objective**
+**Project Objective**
+
 To simulate a realistic, interactive 3D environment representing a smart bus stop, including:
 
   -3D modeled buses and stop structures
@@ -10,6 +11,7 @@ To simulate a realistic, interactive 3D environment representing a smart bus sto
   -Real-time text-based instructions
 
 **Key Features**
+
   -3D Modeling & Rendering: Realistic models of buses, shelters, benches, lamp posts, trees, and people.
   -Animations: Smooth bus movement, character pick-up and drop, timed visual transitions.
   -User Interaction: Control movement with arrow keys, triggering events like boarding or parking.
